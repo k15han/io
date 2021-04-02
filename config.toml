@@ -1,0 +1,4 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Kishan's Writeups"
+theme = "dimension"
